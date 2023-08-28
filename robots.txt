@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /includes/
+Sitemap: https://www.matheusrochadev.com.br/case-medway/sitemap.xml
